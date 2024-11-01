@@ -48,5 +48,5 @@ MacBook-Pro-Burov:envelode burov$ go test -v
     main_test.go:26: Среднее время выполнения 10 тестов: 1.534 секунд
 --- PASS: TestMainExecution (15.34s)
 PASS
-```
 ok  	envelode	16.325s
+```
